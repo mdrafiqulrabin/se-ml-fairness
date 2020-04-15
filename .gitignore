@@ -1,5 +1,6 @@
 .DS_Store
 Icon?
+dataset/transform/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
