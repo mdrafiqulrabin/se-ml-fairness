@@ -2,6 +2,7 @@
 Icon?
 dataset/transform/
 model/checkpoint/
+Result/transform/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
