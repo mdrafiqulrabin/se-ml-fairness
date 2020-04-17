@@ -1,8 +1,8 @@
 .DS_Store
 Icon?
-dataset/transform/
-model/checkpoint/
-Result/transform/
+dataset/
+model/
+Result/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
