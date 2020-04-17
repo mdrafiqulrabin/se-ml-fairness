@@ -7,4 +7,4 @@ class Config:
         self.Checkpoint    = "model/checkpoint"
         self.RLT_TRA_ROWS  = "result/transform/rows_permutation"
         self.RLT_TRA_COLS  = "result/transform/cols_permutation"
-        self.UB_COLS_PATH = "dataset/unbalanced/cols_permutation"
+        self.UB_DATA_PATH  = "dataset/unbalanced"
