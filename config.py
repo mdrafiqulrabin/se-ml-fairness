@@ -8,3 +8,4 @@ class Config:
         self.RLT_TRA_ROWS  = "result/transform/rows_permutation"
         self.RLT_TRA_COLS  = "result/transform/cols_permutation"
         self.UB_DATA_PATH  = "dataset/unbalanced"
+        self.NE_DATA_PATH  = "dataset/nonequivalent"
